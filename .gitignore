@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+signlang_env/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Model files
+*.h5
+
+# Output files
+*.png
+
+# OS
+.DS_Store
+Thumbs.db 
